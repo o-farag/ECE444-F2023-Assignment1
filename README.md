@@ -9,3 +9,10 @@
 
 ### Add utils
 ![add utils](Screenshot-utils-commit.png)
+
+### Rebasing
+![step1](rebase1.png)
+![step2](rebase2.png)
+#### Reordered commits
+![step3](rebase3.png)
+![step4](rebase4.png)
